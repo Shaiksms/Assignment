@@ -1,5 +1,5 @@
 # Assignment
-Memory managing problem statement
+Memory management
 Problem Statement :  
 You are given a memory ( in RAM )  of size 100KB. You have to write the  allocate and 
 deallocate functions which can be used by any process in the given system ( Bare Metal ). 
